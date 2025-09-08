@@ -1,5 +1,5 @@
 # 안녕하세요, 이재윤입니다 
-기술 스택
+#기술 스택
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -13,5 +13,5 @@
 <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white"/>
 </p>
 ---
-팀 프로젝트
+#팀 프로젝트
 
