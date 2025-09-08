@@ -17,4 +17,27 @@
 ---
 
 # 팀 프로젝트
+Movie Flex | 영화관
+역할: 스토어 담당
+기간:
+목표: 사용자와 관리자가 모두 편하게 사용할 수 있는 스토어
 
+---
+
+# 개인 프로젝트
+Plan A | 스터디 카페 예약 웹
+상세:
+기간: 
+목표:
+
+---
+
+# 자격증
+a.c.p visual
+mos master
+
+---
+
+# git 활동
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon222)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?usernamejaeyoon222&show_icons=true)
