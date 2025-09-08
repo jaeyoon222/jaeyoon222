@@ -1,5 +1,8 @@
 # 안녕하세요, 이재윤입니다 
 
+문제를 해결하며 성장하는 **주니어 개발자**입니다.  
+Java, Spring, React 등 풀스택 프로젝트를 통해 사용자 경험 중심의 서비스를 구현하고자 노력합니다.
+
 ## 💻 기술 스택
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
@@ -41,5 +44,5 @@
 ---
 
 ## 🔗 GitHub 활동
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon222)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon222&layout=compact&langs_count=6&theme=radical)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaeyoon222&show_icons=true)
