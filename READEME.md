@@ -17,8 +17,7 @@
 ---
 
 ## 팀 프로젝트
-### 🔹 [Movie (팀 프로젝트)](https://github.com/FullStackStudy/movie)  
-**Movie Flex | 영화관 시스템**  
+### [Movie Flex(영화관 시스템)](https://github.com/FullStackStudy/movie)    
 - **역할**: 스토어 담당  
 - **기간**: 2025.07 ~ 2025.08  
 - **목표**: 사용자와 관리자가 모두 편하게 사용할 수 있는 스토어 구현  
@@ -27,9 +26,8 @@
 ---
 
 ## 개인 프로젝트
-### 🔹 [PlanA](https://github.com/jaeyoon222/PlanA)  
-**Plan A | 스터디 카페 예약 웹**  
-- **상세**: 스터디 카페 좌석 및 시간 예약 웹사이트. 관리자 기능 포함.  
+### [PlanA(스터디 카페 예약 시스템)](https://github.com/jaeyoon222/PlanA)  
+- **상세**: 스터디 카페 좌석 및 시간 예약 웹사이트
 - **기간**: 2025.08 ~ 2025.09  
 - **목표**: 사용자 편의성 높은 예약 시스템 구현  
 - **기술스택**: React, Spring Boot, MySQL, redis
