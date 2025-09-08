@@ -1,6 +1,6 @@
 # 안녕하세요, 이재윤입니다 
 
-# 기술 스택
+## 💻 기술 스택
 <p>
  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
@@ -16,36 +16,30 @@
 
 ---
 
-# 팀 프로젝트
-Movie Flex | 영화관
-
-역할: 스토어 담당
-
-기간:
-
-목표: 사용자와 관리자가 모두 편하게 사용할 수 있는 스토어
+## 🧑‍💻 팀 프로젝트
+**Movie Flex | 영화관 시스템**  
+- **역할**: 스토어 담당  
+- **기간**: 2025.03 ~ 2025.05  
+- **목표**: 사용자와 관리자가 모두 편하게 사용할 수 있는 스토어 구현  
+- **기술스택**: Java, Spring Boot, Thymeleaf, MySQL
 
 ---
 
-# 개인 프로젝트
-Plan A | 스터디 카페 예약 웹
-
-상세:
-
-기간: 
-
-목표:
+## 🧑‍🔬 개인 프로젝트
+**Plan A | 스터디 카페 예약 웹**  
+- **상세**: 스터디 카페 좌석 및 시간 예약 웹사이트. 관리자 기능 포함.  
+- **기간**: 2025.01 ~ 2025.02  
+- **목표**: 사용자 편의성 높은 예약 시스템 구현  
+- **기술스택**: React, Spring Boot, MySQL
 
 ---
 
-# 자격증
-
-a.c.p visual
-
-mos master
+## 📜 자격증
+- A.C.P Visual  
+- MOS Master
 
 ---
 
-# git 활동
+## 🔗 GitHub 활동
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon222)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?usernamejaeyoon222&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaeyoon222&show_icons=true)
