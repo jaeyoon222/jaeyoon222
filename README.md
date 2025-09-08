@@ -44,5 +44,5 @@ Java, Spring, React 등 풀스택 프로젝트를 통해 사용자 경험 중심
 ---
 
 ## 🔗 GitHub 활동
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon222&layout=compact&langs_count=6&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jaeyoon222&layout=compact&langs_count=6)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jaeyoon222&show_icons=true)
